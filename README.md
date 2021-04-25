@@ -6,4 +6,4 @@ Woche 1:
 3. Organisationsapp finden
 4. Fragen f. Turtorium notieren
 
-Treffen jeden Donnerstag (Gruppe) und Mittwoch (mit dem Tutor)
+Treffen jeden Donnerstag (Gruppe per discord) und Mittwoch (mit dem Tutor)
